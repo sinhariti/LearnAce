@@ -1,0 +1,6 @@
+Learn Ace Project -
+Education Web Application Platform 
+
+Using -
+Mysql - database 
+Javascript, HTML, CSS

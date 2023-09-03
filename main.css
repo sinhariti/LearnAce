@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: white;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 100;
+}
+
+.app-logo {
+  font-size: 10mm;
+  color: darkcyan;
+  pointer-events: none;
+
+}
+
+.navigateMenu a{
+  text-decoration-line: none;
+  color: darkcyan;
+  padding: 5px 20px;
+  border-radius: 30px;
+  margin: 0 10px;
+  font-weight: bold;
+
+}
+.navigateMenu a:hover{
+  background-color: darkcyan;
+  color: white;
+
+  
+}
+
+.parallaxView{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  height: 100vh;
+}
+
+#text {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  position: absolute;
+  font-size: 3cm;
+  color: black;
+}

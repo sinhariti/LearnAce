@@ -4,3 +4,11 @@ Education Web Application Platform
 Using -
 Mysql - database 
 Javascript, HTML, CSS
+
+- creating the web page 
+  - home page layout - parallax website
+  - menu bars 
+  - add to cart 
+- author , user logins 
+  - with userid password 
+  - with google Api 

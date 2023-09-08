@@ -1,0 +1,6 @@
+main.css comment box 
+
+Class name can be used by multiple HTML elements, while an ID name must only be used by one HTML element within the page
+
+font size is 1.2rem --> 1 rem = 16px 
+@media - navbar menu function had top -1000px to give the dropdown effect 

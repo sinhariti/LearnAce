@@ -1,4 +1,4 @@
-//navigation bar
+//navigation bar code
 const menu = document.querySelector('#mobile-menu');
 const menuLinks = document.querySelector('.navbar_menu');
 

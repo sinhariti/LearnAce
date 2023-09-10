@@ -13,8 +13,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1c92d2;
-  background: linear-gradient(to right, #3494E6 , #EC6EAD);
+    background-color: #00467F;
+  background: linear-gradient(to right, #00467F , #A5CC82);
     column-gap: 30px;
 }
 .form{
@@ -82,8 +82,8 @@ form{
 }
 .field button{
     color: #fff;
-    background-color: #1c92d2;
-  background: linear-gradient(to right, #3494E6, #EC6EAD );
+    background-color: #00467F;
+  background: linear-gradient(to right, #00467F , #A5CC82);
     transition: all 0.3s ease;
     cursor: pointer;
 }

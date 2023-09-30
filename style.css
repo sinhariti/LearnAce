@@ -74,9 +74,9 @@ section{
   padding-right: 40%;
 }
 .header .flex .search-form{
-  width: 25%;
+  width: 40rem;
   border-radius: .5rem;
-  background-color: rgba(247, 244, 244, 0.789);
+  background-color:var(--light-bg);
   padding:1.5rem 2rem;
   display: flex;
   gap:1rem;
@@ -85,7 +85,7 @@ section{
 
 .header .flex .search-form input{
   width: 100%;
-  margin-left: -200px;
+  /*margin-left: -200px; */
   font-size: 1.5rem;
   color:var(--black);
   background:none;
@@ -104,7 +104,7 @@ section{
   margin-left: -50px;
   font-size: 1.5rem;
   color:var(--black);
-  background-color: #fbf7ef;
+  background-color: var(--light-bg);
   border-radius: .5rem;
   height: 4rem;
   width: 4rem;

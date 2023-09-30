@@ -31,7 +31,7 @@
   background-color: transparent;
 }
 *::-webkit-scrollbar-thumb{
-  background: linear-gradient(to right, #e1f6d5 40%, #5c9bcf);
+  background: var(--black);
 }
 
 html{
@@ -62,7 +62,7 @@ section{
   height: 60px;
   display: flex;
   align-items: center;
-  justify-content:right;
+  justify-content:space-between;
   position: relative;
   padding: 10px;
 }
@@ -71,7 +71,6 @@ section{
   top: 0;
   margin: 0;
   float:left;
-  padding-right: 40%;
 }
 .header .flex .search-form{
   width: 40rem;

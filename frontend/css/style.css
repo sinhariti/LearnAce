@@ -7,7 +7,7 @@
    --light-color:#888;
    --light-bg:#eee;
    --black:#2c3e50;
-   --white:rgba(251,247,239);
+   --white:#fbf7ef;
    --border:.1rem solid rgba(0,0,0,.2);
 }
 
@@ -492,27 +492,27 @@ section{
    color: var(--light-color);
 }
 
-.reviews .box-container .box .Studentt{
+.reviews .box-container .box .Student{
    margin-top: 2rem;
    display: flex;
    align-items: center;
    gap: 1.5rem;
 }
 
-.reviews .box-container .box .Studentt img{
+.reviews .box-container .box .Student img{
    height: 5rem;
    width: 5rem;
    object-fit: cover;
    border-radius: 50%;
 }
 
-.reviews .box-container .box .Studentt h3{
+.reviews .box-container .box .Student h3{
    font-size: 2rem;
    color: var(--black);
    margin-bottom: .3rem;
 }
 
-.reviews .box-container .box .Studentt .stars{
+.reviews .box-container .box .Student .stars{
    font-size: 1.5rem;
    color:var(--orange);
 }

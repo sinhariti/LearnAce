@@ -7,7 +7,7 @@ A simple website to provide user friendly interface to learn courses online.
 
 <h3>Features :</h3>
 1. Profile Login
-  -> Studentts can login and purchase content from the website.
+  -> Students can login and purchase content from the website.
 3. Author Login
   -> authorised teachers can uplaod their own content
 4. Demo Videos

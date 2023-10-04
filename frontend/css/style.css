@@ -492,27 +492,27 @@ section{
    color: var(--light-color);
 }
 
-.reviews .box-container .box .student{
+.reviews .box-container .box .Studentt{
    margin-top: 2rem;
    display: flex;
    align-items: center;
    gap: 1.5rem;
 }
 
-.reviews .box-container .box .student img{
+.reviews .box-container .box .Studentt img{
    height: 5rem;
    width: 5rem;
    object-fit: cover;
    border-radius: 50%;
 }
 
-.reviews .box-container .box .student h3{
+.reviews .box-container .box .Studentt h3{
    font-size: 2rem;
    color: var(--black);
    margin-bottom: .3rem;
 }
 
-.reviews .box-container .box .student .stars{
+.reviews .box-container .box .Studentt .stars{
    font-size: 1.5rem;
    color:var(--orange);
 }

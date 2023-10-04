@@ -562,7 +562,7 @@ section{
 
 .courses .box-container .box .thumb span{
    position: absolute;
-   top:1rem; left: 1rem;
+   bottom:1rem; left: 1rem;
    border-radius: .5rem;
    padding: .5rem 1.5rem;
    background-color: rgba(0,0,0,.3);
